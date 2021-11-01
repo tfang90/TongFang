@@ -31,9 +31,9 @@
 - 2009/07-2012/06  山东大学 经济学院 经济学 经济学学士
 
 ### 工作论文（Any comments are welcome）
-- Gold price ratios and aggregate stock returns
-- Global trade network and stock market returns:International evidence: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781.
-- Uncertainty-driven oil volatility risk and stock market volatility forecasting: The oil volatility risk premium (OVRP) is defined as the difference between the ex ante risk-neutral expectation of oil return variation and the expected realized variation for oil returns. In this paper, we propose a new measure of the OVRP, the uncertainty-driven OVRP (UOVRP), in which the expected realized variation is the conditional variance of oil futures returns estimated by a typical GARCH-MIDAS model, and the long-term volatility component of conditional variance is directly determined by several uncertainty indices. Using heterogeneous autoregressive models (HAR), we find that UOVRPs significantly and positively predict most of the international stock market volatility in-sample and significantly outperform the realized volatility, the “model-free” OVRP and recently proposed volatility predictors for most American, European and Pacific markets out-of-sample. On average, UOVRPs driven by the world uncertainty index and U.S. economic policy uncertainty perform the best among all UOVRPs. The predictive ability of UOVRPs is robust across a series of checks.(**Submitted)
+- **Gold price ratios and aggregate stock returns**
+- **Global trade network and stock market returns:International evidence** Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781.
+- **Uncertainty-driven oil volatility risk and stock market volatility forecasting**: The oil volatility risk premium (OVRP) is defined as the difference between the ex ante risk-neutral expectation of oil return variation and the expected realized variation for oil returns. In this paper, we propose a new measure of the OVRP, the uncertainty-driven OVRP (UOVRP), in which the expected realized variation is the conditional variance of oil futures returns estimated by a typical GARCH-MIDAS model, and the long-term volatility component of conditional variance is directly determined by several uncertainty indices. Using heterogeneous autoregressive models (HAR), we find that UOVRPs significantly and positively predict most of the international stock market volatility in-sample and significantly outperform the realized volatility, the “model-free” OVRP and recently proposed volatility predictors for most American, European and Pacific markets out-of-sample. On average, UOVRPs driven by the world uncertainty index and U.S. economic policy uncertainty perform the best among all UOVRPs. The predictive ability of UOVRPs is robust across a series of checks.(**Submitted**)
 
 ### 学术论文（按时间倒序，* 通讯作者）
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
@@ -44,7 +44,7 @@
 - Tong Fang*, Tae-Hwy Lee, and Zhi Su, 2020. Predicting the long-term stock market volatility: A GARCH-MIDAS model with variable selection. Journal of Empirical Finance 58: 36-49. (SSCI)
 - Zhi Su, Tong Fang, and Libo Yin, 2019. Understanding stock market volatility: What is the role of US uncertainty? The North American Journal of Economics and Finance 48: 582-590. (SSCI,共同一作)
 - 苏治、方彤*、马景义：《一类包含不同权重函数的混频GARCH族模型及其应用研究》，《数量经济技术经济研究》2018年第10期，126-143页。
-- Zhi Su, _Tong Fang_, and Libo Yin*, 2018. Does NVIX matter for volatility? Evidence from Asia-Pacific markets. Physica A: Statistical Mechanics and Its Applications 492: 506-516. (SCI/EI)
+- Zhi Su, Tong Fang, and Libo Yin*, 2018. Does NVIX matter for volatility? Evidence from Asia-Pacific markets. Physica A: Statistical Mechanics and Its Applications 492: 506-516. (SCI/EI)
 - 苏治、方彤、尹力博：《中国虚拟经济与实体经济的关联性——基于规模和周期视角的实证研究》，《中国社会科学》2017年第8期，87-109页。（被中国人民大学复印报刊资料《国民经济管理》2018年第1期全文转载）
 - Zhi Su, Tong Fang, and Libo Yin*, 2017. The role of news-based implied volatility among US financial markets. Economics Letters 157: 24-27. (SSCI)
 - 马景义、单璐琪、方彤：《一种增强型指数追踪模型设计：GLAR与折衷路径》，《数量经济技术经济研究》2017年第5期，107-121页。
