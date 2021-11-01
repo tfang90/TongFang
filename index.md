@@ -31,32 +31,32 @@
 - 2009/07-2012/06  山东大学 经济学院 经济学 经济学学士
 
 ### 工作论文（Any comments are welcome）
-- **Gold price ratios and aggregate stock returns**: We show that most gold price ratios, which represent the relative valuations of gold, positively and significantly predict aggregate stock returns. These ratios fail to generate significant predictive ability after controlling for a series of return predictors described in Welch and Goyal (2008) or to display significant out-of-sample forecasting performance, except for the gold -oil price ratio (GO). GO is the most powerful predictor. A one-standard-deviation increase is associated with a 6.60% increase in the annual excess return for the next month. GO generates the most sizable out-of-sample R^2 and utility gains for a mean-variance investor. We find that the economic source of GO’s predictive ability originates from the cash flow channel using stock return decomposition and positive predictive power on economic conditions. The effect of GO is likely to be reversed only in periods when gold is valuable relative to oil, but the reversal is found to be insignificant. Return predictability from gold price ratios provides us with a new perspective for understanding gold price dynamics.
+- **Gold price ratios and aggregate stock returns**: We show that most gold price ratios, which represent the relative valuations of gold, positively and significantly predict aggregate stock returns. These ratios fail to generate significant predictive ability after controlling for a series of return predictors described in Welch and Goyal (2008) or to display significant out-of-sample forecasting performance, except for the gold-oil price ratio (GO). GO is the most powerful predictor. A one-standard-deviation increase is associated with a 6.60% increase in the annual excess return for the next month. GO generates the most sizable out-of-sample R^2 and utility gains for a mean-variance investor. We find that the economic source of GO’s predictive ability originates from the cash flow channel using stock return decomposition and positive predictive power on economic conditions. The effect of GO is likely to be reversed only in periods when gold is valuable relative to oil, but the reversal is found to be insignificant. Return predictability from gold price ratios provides us with a new perspective for understanding gold price dynamics.
 - **Global trade network and stock market returns:International evidence**: We investigate the relationship between global trade network centrality and international stock market returns. We empirically find that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive ability remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We combine global consumption risk exposure with economy size (GDP) and reveal that the risk exposure per GDP effectively explains the negative relationship between trade network centrality and stock market returns. Conflict risk exposure and information asymmetry also explain our results. Central (peripheral) economies have low (high) risk exposure and information asymmetry, and thus have low (high) stock returns.
 - **Uncertainty-driven oil volatility risk and stock market volatility forecasting**: The oil volatility risk premium (OVRP) is defined as the difference between the ex ante risk-neutral expectation of oil return variation and the expected realized variation for oil returns. In this paper, we propose a new measure of the OVRP, the uncertainty-driven OVRP (UOVRP), in which the expected realized variation is the conditional variance of oil futures returns estimated by a typical GARCH-MIDAS model, and the long-term volatility component of conditional variance is directly determined by several uncertainty indices. Using heterogeneous autoregressive models (HAR), we find that UOVRPs significantly and positively predict most of the international stock market volatility in-sample and significantly outperform the realized volatility, the “model-free” OVRP and recently proposed volatility predictors for most American, European and Pacific markets out-of-sample. On average, UOVRPs driven by the world uncertainty index and U.S. economic policy uncertainty perform the best among all UOVRPs. The predictive ability of UOVRPs is robust across a series of checks.(Submitted)
 
 ### 学术论文（按时间倒序，* 通讯作者）
-- Libo Yin, Zhi Su, _Tong Fang*_, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
-- Zhi Su, Peng Liu, _Tong Fang*_, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, doi.org/10.1016/j.gfj.2021.100644. (SSCI)
+- Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
+- Zhi Su, Peng Liu, Tong Fan*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, doi.org/10.1016/j.gfj.2021.100644. (SSCI)
 - Tong Fang, Zhi Su, and Libo Yin*, 2021. Does the green inspiration effect matter for stock returns? Evidence from the Chinese stock market. Empirical Economics, 60: 2155-2176. (SSCI)
-- _Tong Fang_, Zhi Su. 2020, Does uncertainty matter for US financial market volatility spillovers? Empirical evidence from a nonlinear Granger causality network. Applied Economics Letters incorporating Applied Financial Economics Letters, doi.org/10.1080/13504851.2020.1854656. (SSCI)
-- _Tong Fang_, Zhi Su, Libo Yin*, 2020. Economic fundamentals or investor perception? The role of uncertainty in predicting cryptocurrency volatility. International Review of Financial Analysis 71: 101566. (SSCI)
-- _Tong Fang*_, Tae-Hwy Lee, and Zhi Su, 2020. Predicting the long-term stock market volatility: A GARCH-MIDAS model with variable selection. Journal of Empirical Finance 58: 36-49. (SSCI)
-- Zhi Su, _Tong Fang_, and Libo Yin, 2019. Understanding stock market volatility: What is the role of US uncertainty? The North American Journal of Economics and Finance 48: 582-590. (SSCI,共同一作)
-- 苏治、_方彤*_、马景义：《一类包含不同权重函数的混频GARCH族模型及其应用研究》，《数量经济技术经济研究》2018年第10期，126-143页。
+- Tong Fang, Zhi Su. 2020, Does uncertainty matter for US financial market volatility spillovers? Empirical evidence from a nonlinear Granger causality network. Applied Economics Letters incorporating Applied Financial Economics Letters, doi.org/10.1080/13504851.2020.1854656. (SSCI)
+- Tong Fang, Zhi Su, Libo Yin*, 2020. Economic fundamentals or investor perception? The role of uncertainty in predicting cryptocurrency volatility. International Review of Financial Analysis 71: 101566. (SSCI)
+- Tong Fang*, Tae-Hwy Lee, and Zhi Su, 2020. Predicting the long-term stock market volatility: A GARCH-MIDAS model with variable selection. Journal of Empirical Finance 58: 36-49. (SSCI)
+- Zhi Su, Tong Fang, and Libo Yin, 2019. Understanding stock market volatility: What is the role of US uncertainty? The North American Journal of Economics and Finance 48: 582-590. (SSCI,共同一作)
+- 苏治、方彤*、马景义：《一类包含不同权重函数的混频GARCH族模型及其应用研究》，《数量经济技术经济研究》2018年第10期，126-143页。
 - Zhi Su, _Tong Fang_, and Libo Yin*, 2018. Does NVIX matter for volatility? Evidence from Asia-Pacific markets. Physica A: Statistical Mechanics and Its Applications 492: 506-516. (SCI/EI)
-- 苏治、_方彤_、尹力博：《中国虚拟经济与实体经济的关联性——基于规模和周期视角的实证研究》，《中国社会科学》2017年第8期，87-109页。（被中国人民大学复印报刊资料《国民经济管理》2018年第1期全文转载）
-- Zhi Su, _Tong Fang_, and Libo Yin*, 2017. The role of news-based implied volatility among US financial markets. Economics Letters 157: 24-27. (SSCI)
-- 马景义#、单璐琪、_方彤_：《一种增强型指数追踪模型设计：GLAR与折衷路径》，《数量经济技术经济研究》2017年第5期，107-121页。
-- 苏治、_方彤_、秦磊：《一种基于规则化方法的最优稀疏指数追踪模型设计》，《数量经济技术经济研究》2016年第4期，145-160页。（被中国人民大学复印报刊资料《统计与精算》2016年第4期全文转载）
-- 苏治、胡迪、_方彤_：《人民币加入SDR的国际影响——基于情景假设的量化测算》，《中国工业经济》2015年第12期，5-19页。（被中国人民大学复印报刊资料《世界经济导刊》2016年第3期全文转载）
-- 苏治、秦磊、_方彤_：《含有图结构约束的稀疏最小方差资产组合模型》，《中国管理科学》2015年第9期，65-70页。
-- 苏治、尹力博、_方彤_：《量化宽松与国际大宗商品市场：溢出性、非对称性和长记忆性》，《金融研究》2015年第3期，68-82页。
-- 苏治、李进、_方彤_：《人民币区域接受程度：指数构建与影响因子计量——以东盟及中国香港为例》，《经济理论与经济管理》2014年第7期，51-63页。（被中国人民大学复印报刊资料《世界经济导刊》2014年第10期全文转载）
+- 苏治、方彤、尹力博：《中国虚拟经济与实体经济的关联性——基于规模和周期视角的实证研究》，《中国社会科学》2017年第8期，87-109页。（被中国人民大学复印报刊资料《国民经济管理》2018年第1期全文转载）
+- Zhi Su, Tong Fang, and Libo Yin*, 2017. The role of news-based implied volatility among US financial markets. Economics Letters 157: 24-27. (SSCI)
+- 马景义、单璐琪、方彤：《一种增强型指数追踪模型设计：GLAR与折衷路径》，《数量经济技术经济研究》2017年第5期，107-121页。
+- 苏治、方彤、秦磊：《一种基于规则化方法的最优稀疏指数追踪模型设计》，《数量经济技术经济研究》2016年第4期，145-160页。（被中国人民大学复印报刊资料《统计与精算》2016年第4期全文转载）
+- 苏治、胡迪、方彤：《人民币加入SDR的国际影响——基于情景假设的量化测算》，《中国工业经济》2015年第12期，5-19页。（被中国人民大学复印报刊资料《世界经济导刊》2016年第3期全文转载）
+- 苏治、秦磊、方彤：《含有图结构约束的稀疏最小方差资产组合模型》，《中国管理科学》2015年第9期，65-70页。
+- 苏治、尹力博、方彤：《量化宽松与国际大宗商品市场：溢出性、非对称性和长记忆性》，《金融研究》2015年第3期，68-82页。
+- 苏治、李进、方彤：《人民币区域接受程度：指数构建与影响因子计量——以东盟及中国香港为例》，《经济理论与经济管理》2014年第7期，51-63页。（被中国人民大学复印报刊资料《世界经济导刊》2014年第10期全文转载）
 
 ### 论著与教材
-- 常东风，陈晓莉，_方彤_等编：《金融教学案例（第一辑）》，经济科学出版社，ISBN 978-7-5218-2398-1
-- 苏治，_方彤_主编：《数量经济学前沿文献导读》，中国财政经济出版社，ISBN 978-7-5223-0163-1。
+- 常东风，陈晓莉，方彤等编：《金融教学案例（第一辑）》，经济科学出版社，ISBN 978-7-5218-2398-1
+- 苏治，方彤主编：《数量经济学前沿文献导读》，中国财政经济出版社，ISBN 978-7-5223-0163-1。
 - Zhuo Xu, Zhen Li, _Tong Fang_, 2020. Network centrality and cross-section of stock market returns. In IEIS 2020: Proceedings of the 7th International Conference on Industrial Economics Systems and Industrial Security Engineering, 1-8. Springer.
 
 ### 课题主持与参与
