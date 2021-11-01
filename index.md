@@ -10,7 +10,7 @@
 - 其他主页：https://www.researchgate.net/profile/Tong-Fang-3
 
 ### 研究方向
-- 混频数据建模与应用：混频GARCH族模型建模；基于混频GARCH模型的波动率建模及预测等
+- 混频数据建模与应用：混频GARCH族模型建模和预测
 - 金融预测：金融波动与收益预测
 - 气候金融：气候变化与资产定价；气候变化与金融稳定等
 - 系统性金融风险：系统性风险建模及影响因素
@@ -94,4 +94,3 @@
 - Physica A
 - International Review of Economics and Finance
 - Finance Research Letters
-
