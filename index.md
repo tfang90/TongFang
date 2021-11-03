@@ -32,7 +32,9 @@
 
 ### 工作论文（Any comments are welcome）
 - **Gold price ratios and aggregate stock returns**
-- **Global trade network and stock market returns:International evidence** Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781.
+- **Global trade network and stock market returns:International evidence** 
+
+  Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781.
 - **Uncertainty-driven oil volatility risk and stock market volatility forecasting**: The oil volatility risk premium (OVRP) is defined as the difference between the ex ante risk-neutral expectation of oil return variation and the expected realized variation for oil returns. In this paper, we propose a new measure of the OVRP, the uncertainty-driven OVRP (UOVRP), in which the expected realized variation is the conditional variance of oil futures returns estimated by a typical GARCH-MIDAS model, and the long-term volatility component of conditional variance is directly determined by several uncertainty indices. Using heterogeneous autoregressive models (HAR), we find that UOVRPs significantly and positively predict most of the international stock market volatility in-sample and significantly outperform the realized volatility, the “model-free” OVRP and recently proposed volatility predictors for most American, European and Pacific markets out-of-sample. On average, UOVRPs driven by the world uncertainty index and U.S. economic policy uncertainty perform the best among all UOVRPs. The predictive ability of UOVRPs is robust across a series of checks.(**Submitted**)
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角
