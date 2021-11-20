@@ -39,6 +39,7 @@
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据
+- Which dimensions of national culture matter for central bank independence? International evidence (**In progress**)
 
 ### 学术论文（按时间倒序，* 通讯作者）
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
