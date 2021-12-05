@@ -32,6 +32,8 @@
 
 ### 工作论文（Any comments are welcome）
 - **Gold price ratios and aggregate stock returns**
+  
+  Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940.
 - **Global trade network and stock market returns:International evidence** 
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781.
