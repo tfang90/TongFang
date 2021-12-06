@@ -34,7 +34,9 @@
 - **Gold price ratios and aggregate stock returns**
   
   Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940
-  Top ten downloads from Oct 6 to Dec 5 on SSRN
+  
+  Top ten downloads from Oct 6 to Dec 5 on SSRN for ERN: Asset Price Forecasts (Topic), ERN: Precious Metals (Topic), Econometric Modeling: Capital Markets - Forecasting eJournal and Econometric Modeling: Commodity Markets eJournal
+  
 - **Global trade network and stock market returns:International evidence** 
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781
