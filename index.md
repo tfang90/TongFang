@@ -34,6 +34,7 @@
 - **Gold price ratios and aggregate stock returns**
   
   Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940
+  Top ten downloads from Oct 6 to Dec 5 on SSRN
 - **Global trade network and stock market returns:International evidence** 
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781
