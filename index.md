@@ -47,6 +47,7 @@
 - Which dimensions of national culture matter for central bank independence? International evidence (**In progress**)
 
 ### 学术论文（按时间倒序，* 通讯作者）
+- Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
 - Zhi Su, Peng Liu, Tong Fang*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, doi.org/10.1016/j.gfj.2021.100644. (SSCI)
