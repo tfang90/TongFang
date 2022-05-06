@@ -70,7 +70,7 @@
 - 苏治、尹力博、方彤：《量化宽松与国际大宗商品市场：溢出性、非对称性和长记忆性》，《金融研究》2015年第3期，68-82页。
 - 苏治、李进、方彤：《人民币区域接受程度：指数构建与影响因子计量——以东盟及中国香港为例》，《经济理论与经济管理》2014年第7期，51-63页。（被中国人民大学复印报刊资料《世界经济导刊》2014年第10期全文转载）
 
-### 论著与教材/Books and Chapters
+### 论著与教材/Books and chapters
 - 常东风，陈晓莉，方彤等编：《金融教学案例（第一辑）》，经济科学出版社，ISBN 978-7-5218-2398-1
 - 苏治，方彤主编：《数量经济学前沿文献导读》，中国财政经济出版社，ISBN 978-7-5223-0163-1。
 - Zhuo Xu, Zhen Li, Tong Fang, 2020. Network centrality and cross-section of stock market returns. In IEIS 2020: Proceedings of the 7th International Conference on Industrial Economics Systems and Industrial Security Engineering, 1-8. Springer.
