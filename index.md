@@ -3,34 +3,34 @@
 
 - 更新日期：2022-01
 
-### 联系方式
+### 联系方式/Contact information
 - 电子邮箱：fangtong1990@outlook.com
 - 通讯地址：山东省济南市山大南路27号，250100
 - 办公地址：山东大学洪家楼校区2号楼318
 - 其他主页：https://www.researchgate.net/profile/Tong-Fang-3
 
-### 研究方向
+### 研究方向/Research interests
 - 混频数据建模与应用：混频GARCH族模型建模和预测
 - 金融预测：金融波动与收益预测
 - 气候金融：气候变化与资产定价；气候变化与金融稳定等
 - 系统性金融风险：系统性风险建模及影响因素
 - 国家文化：非正式制度在经济金融领域的应用
 
-### 讲授课程
+### 讲授课程/Teaching courses
 - 本科生：国际金融；公司理财
 - 研究生：数量经济与实证金融方法导论；资产定价文献导读与研究方法；金融学前沿
 
-### 工作经历
+### 工作经历/Employment
 - 2019/08-至今 山东大学 经济学院 副研究员
 
-### 教育经历
+### 教育经历/Education
 - 2015/10-2019/06  中央财经大学 统计与数学学院 数量经济学 经济学博士
 - 2017/09-2018/09  美国加州大学河滨分校 经济系 国家公派联合培养博士生
 - 2012/09-2014/06  中央财经大学 统计与数学学院 应用统计 硕士
 - 2008/09-2012/06  山东大学 数学学院 统计学 理学学士
 - 2009/07-2012/06  山东大学 经济学院 经济学 经济学学士（第二学位）
 
-### 工作论文（Any comments are welcome）
+### 工作论文/Working papers
 - **Gold price ratios and aggregate stock returns**
   
   Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940
@@ -49,7 +49,7 @@
 - National culture and central bank independence：International evidence (**Submitted**)
 - Climate change and bank systemic risk: Evidence from China (**Submitted**)
 
-### 学术论文（按时间倒序，* 通讯作者）
+### 学术论文/Publications（按时间倒序，* 通讯作者）
 - Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
@@ -70,12 +70,12 @@
 - 苏治、尹力博、方彤：《量化宽松与国际大宗商品市场：溢出性、非对称性和长记忆性》，《金融研究》2015年第3期，68-82页。
 - 苏治、李进、方彤：《人民币区域接受程度：指数构建与影响因子计量——以东盟及中国香港为例》，《经济理论与经济管理》2014年第7期，51-63页。（被中国人民大学复印报刊资料《世界经济导刊》2014年第10期全文转载）
 
-### 论著与教材
+### 论著与教材/Books and Chapters
 - 常东风，陈晓莉，方彤等编：《金融教学案例（第一辑）》，经济科学出版社，ISBN 978-7-5218-2398-1
 - 苏治，方彤主编：《数量经济学前沿文献导读》，中国财政经济出版社，ISBN 978-7-5223-0163-1。
 - Zhuo Xu, Zhen Li, Tong Fang, 2020. Network centrality and cross-section of stock market returns. In IEIS 2020: Proceedings of the 7th International Conference on Industrial Economics Systems and Industrial Security Engineering, 1-8. Springer.
 
-### 课题主持与参与
+### 课题主持与参与/Academic fundings
 - 山东省自然科学基金青年项目：不确定性对系统性金融风险传染影响的异质性：信息识别、内生检验与政策应用（ZR2020QG034），2021.1-2023.12，15万元，主持。
 - 山东大学青年学者未来计划（第六批）资助，2020-2025，20万元，主持。
 - 山东大学基本科研业务费资助项目：多维不确定性信息的内生性识别与应用研究，2019/10-2021/12，8万元，主持
@@ -88,7 +88,7 @@
 - 国家统计局全国统计科学研究重大项目：经济发展新动能指标体系及测算方法研究（2018LD04），2018/9-2020/9，15万元，参与
 - 财政部中央文化企业国有资产监督管理领导小组办公室《国有文化企业发展报告》课题组，参与
 
-### 学术会议（报告）
+### 学术会议/Conferences and seminars
 - 2020 China Accounting and Finance Conference: Global trade network and stock market returns: International evidence, January 8-9th, 2020, Beijing, China (Online).
 - 全国数量经济学博士生学术论坛：Global trade network and stock market returns: International evidence，December 25-26th, 2021, Xiamen University, China (Online).
 - Future Finance Conference 2021: Global trade network and stock market returns: International evidence, November 6th, Jiangxi University of Economics and Finance, Nanchang, China (Online).
@@ -102,7 +102,7 @@
 - European Financial Management Symposium: Does NVIX matter for volatility? Evidence from Asia-Pacific markets, April 7-9th, 2017, Xiamen, China.
 - UCR Graduate Student Association Econometrics Seminar: Network centrality and cross-section of stock market returns, February 8th, 2018, Riverside, USA.
 
-### 匿名审稿人
+### 匿名审稿人/Reviewer
 - 《管理科学学报》
 - 《数量经济技术经济研究》
 - 《财贸研究》
