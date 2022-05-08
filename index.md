@@ -10,11 +10,11 @@
 - 其他主页：https://www.researchgate.net/profile/Tong-Fang-3
 
 ### 研究方向/Research interests
+- 气候金融：气候变化与资产定价；气候变化与金融稳定等
+- 国家文化：非正式制度在经济金融领域的应用
+- 系统性金融风险：系统性风险建模及影响因素
 - 混频数据建模与应用：混频GARCH族模型建模和预测
 - 金融预测：金融波动与收益预测
-- 气候金融：气候变化与资产定价；气候变化与金融稳定等
-- 系统性金融风险：系统性风险建模及影响因素
-- 国家文化：非正式制度在经济金融领域的应用
 
 ### 讲授课程/Teaching courses
 - 本科生：国际金融；公司理财
@@ -45,7 +45,7 @@
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**In progress**）
-- 宏观不确定性的全球联动效应与影响因素研究：基于正式和非正式制度视角（**In progress**）
+- 全球金融周期的联动效应与影响因素研究：基于正式和非正式制度视角（**In progress**）
 - National culture and central bank independence：International evidence (**Submitted**)
 - Climate change and bank systemic risk: Evidence from China (**Submitted**)
 
