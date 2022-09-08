@@ -1,5 +1,5 @@
 ## 方 彤
-山东大学经济学院副研究员，硕士生导师（金融学硕/专硕），中央财经大学数量经济学博士，美国加州大学河滨分校国家公派联合培养博士研究生。入选山东大学青年学者未来支持计划（第六批）。研究领域为实证金融和混频数据建模。主要成果发表在《中国社会科学》《数量经济技术经济研究》等国内期刊以及Journal of Empirical Finance, Economics Letters, Global Finance Journal和International Review of Financial Analysis等SSCI检索期刊，并被中国人民大学复印报刊资料多次全文转载。主持山东省自然科学基金、山东大学青年学者未来计划等课题，参加国家社科基金重大项目、国家自然科学基金面上项目等。担任《管理科学学报》《数量经济技术经济研究》和International Review of Economics and Finance，International Review of Financial Analysis，Finance Research Letters等期刊匿名审稿人。
+山东大学经济学院副研究员，硕士生导师（金融学硕/专硕），中央财经大学数量经济学博士，美国加州大学河滨分校国家公派联合培养博士研究生。入选山东大学青年学者未来支持计划（第六批）。研究领域为实证金融和混频数据建模。主要成果发表在《中国社会科学》《数量经济技术经济研究》等国内期刊以及Journal of Empirical Finance, Economics Letters, Global Finance Journal和International Review of Financial Analysis等SSCI检索期刊，并被中国人民大学复印报刊资料多次全文转载。主持山东省自然科学基金、山东省社科规划基金、山东大学青年学者未来计划等课题，参加国家社科基金重大项目、国家自然科学基金面上项目等。担任《管理科学学报》《数量经济技术经济研究》和International Review of Economics and Finance，International Review of Financial Analysis，Finance Research Letters等期刊匿名审稿人。
 
 - 更新日期：2022-09
 
