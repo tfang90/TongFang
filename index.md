@@ -45,11 +45,11 @@
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**In progress**）
-- 全球金融周期的联动效应与影响因素研究：基于正式和非正式制度视角（**In progress**）
+- National culture and business cycle comovement（**Submitted**）
 - National culture and central bank independence：International evidence (**Submitted**)
 
   Working paper: https://ssrn.com/abstract=4100074
-- Temperature shocks and bank systemic risk: Evidence from China (**Submitted**)
+- Temperature shocks and bank systemic risk: Evidence from China (**R&R**)
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
 - Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
