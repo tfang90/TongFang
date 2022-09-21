@@ -31,11 +31,13 @@
 - 2009/07-2012/06  山东大学 经济学院 经济学 经济学学士（第二学位）
 
 ### 工作论文/Working papers
-- **Gold price ratios and aggregate stock returns**
+- **Gold price ratios and aggregate stock returns**(**In progress**)
   
   Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940
   
   Top ten downloads from Oct 6 to Dec 5 on SSRN for ERN: Asset Price Forecasts (Topic), ERN: Precious Metals (Topic), Econometric Modeling: Capital Markets - Forecasting eJournal and Econometric Modeling: Commodity Markets eJournal
+ 
+- **Gold-oil price ratio and index futures return**(**In progress**)
   
 - **Global trade network and stock market returns:International evidence** :We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.(**Under review**)
 
