@@ -1,7 +1,7 @@
 ## 方 彤
 山东大学经济学院副研究员，硕士生导师（金融学硕/专硕），中央财经大学数量经济学博士，美国加州大学河滨分校国家公派联合培养博士研究生。入选山东大学青年学者未来支持计划（第六批）。研究领域为气候金融、金融波动率建模和系统性风险等。主要成果发表在《中国社会科学》《数量经济技术经济研究》等国内期刊以及Journal of Empirical Finance, Economics Letters, Global Finance Journal和International Review of Financial Analysis等SSCI检索期刊，并被中国人民大学复印报刊资料多次全文转载。主持山东省自然科学基金、山东省社科规划基金、山东大学青年学者未来计划等课题，参加国家社科基金重大项目、国家自然科学基金面上项目等。担任《管理科学学报》《数量经济技术经济研究》和International Review of Economics and Finance，International Review of Financial Analysis，Finance Research Letters等期刊匿名审稿人。
 
-- 更新日期：2022-09
+- 更新日期：2022-10
 
 ### 联系方式/Contact information
 - 电子邮箱：fangtong1990@outlook.com
@@ -42,18 +42,18 @@
 - **Global trade network and stock market returns:International evidence** :We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.(**Under review**)
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781
-- **Uncertainty-driven oil volatility risk and stock market volatility forecasting**: The oil volatility risk premium (OVRP) is defined as the difference between the ex ante risk-neutral expectation of oil return variation and the expected realized variation for oil returns. In this paper, we propose a new measure of the OVRP, the uncertainty-driven OVRP (UOVRP), in which the expected realized variation is the conditional variance of oil futures returns estimated by a typical GARCH-MIDAS model, and the long-term volatility component of conditional variance is directly determined by several uncertainty indices. Using heterogeneous autoregressive models (HAR), we find that UOVRPs significantly and positively predict most of the international stock market volatility in-sample and significantly outperform the realized volatility, the “model-free” OVRP and recently proposed volatility predictors for most American, European and Pacific markets out-of-sample. On average, UOVRPs driven by the world uncertainty index and U.S. economic policy uncertainty perform the best among all UOVRPs. The predictive ability of UOVRPs is robust across a series of checks.(**R&R**)
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**In progress**）
-- National culture and business cycle comovement（**Submitted**）
+- National culture and international business cycle comovement（**Submitted**）
 - National culture and central bank independence：International evidence (**Submitted**)
 
   Working paper: https://ssrn.com/abstract=4100074
 - Temperature shocks and bank systemic risk: Evidence from China (**R&R**)
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
+- Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, accept.
 - Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
