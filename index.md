@@ -36,17 +36,23 @@
   Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940
   
   Top ten downloads from Oct 6 to Dec 5 on SSRN for ERN: Asset Price Forecasts (Topic), ERN: Precious Metals (Topic), Econometric Modeling: Capital Markets - Forecasting eJournal and Econometric Modeling: Commodity Markets eJournal
+  
+  Abstract:We examine whether gold price ratios, which represent the relative valuations of gold, predict aggregate stock returns. We find that gold price ratios positively predict future stock returns in-sample, but fail to generate significant out-of-sample forecasting performance, except for the gold-oil price ratio (GO). GO is the most powerful predictor both in-sample and out-of-sample. The predictive ability of GO remains significant after controlling for traditional predictors and other gold price ratios. We find that GO drives stock returns through the cash flow channel, and is also associated with future bad economic conditions. The GO movement is determined by rare disaster concerns instead of economic fundamentals. Our results are robust to a series of tests.
  
 - **Gold-oil price ratio and index futures return**(**In progress**)
+
+Abstract:We show that the gold-oil price ratio (GO), which is calculated as the natural logarithm of the gold to oil price ratio, positively and significantly predicts the S&P 500 Futures Index return in-sample. A one-standard-deviation increase in GO is associated with a 6.396% increase in the annual index futures return for the next month. Compared to traditional economic predictors, GO generates the most sizable out-of-sample R^2 and utility gains for a mean-variance investor. GO also outperforms several newly proposed predictors. Our results are robust to a series of tests.
   
-- **Global trade network and stock market returns:International evidence** :We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.(**Under review**)
+- **Global trade network and stock market returns:International evidence** 
+
+Abstract: We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.(**Under review**)
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**In progress**）
-- National culture and international business cycle comovement（**Submitted**）
+- National culture and international business cycle comovement（**R&R**）
 - National culture and central bank independence：International evidence (**Submitted**)
 
   Working paper: https://ssrn.com/abstract=4100074
