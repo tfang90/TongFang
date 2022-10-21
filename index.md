@@ -41,22 +41,22 @@
  
 - **Gold-oil price ratio and index futures return**(**In progress**)
 
-Abstract:We show that the gold-oil price ratio (GO), which is calculated as the natural logarithm of the gold to oil price ratio, positively and significantly predicts the S&P 500 Futures Index return in-sample. A one-standard-deviation increase in GO is associated with a 6.396% increase in the annual index futures return for the next month. Compared to traditional economic predictors, GO generates the most sizable out-of-sample R^2 and utility gains for a mean-variance investor. GO also outperforms several newly proposed predictors. Our results are robust to a series of tests.
+  Abstract:We show that the gold-oil price ratio (GO), which is calculated as the natural logarithm of the gold to oil price ratio, positively and significantly predicts the S&P 500 Futures Index return in-sample. A one-standard-deviation increase in GO is associated with a 6.396% increase in the annual index futures return for the next month. Compared to traditional economic predictors, GO generates the most sizable out-of-sample R^2 and utility gains for a mean-variance investor. GO also outperforms several newly proposed predictors. Our results are robust to a series of tests.
   
-- **Global trade network and stock market returns:International evidence** 
+- **Global trade network and stock market returns:International evidence** (**Under review**)
 
-Abstract: We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.(**Under review**)
+  Abstract: We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**In progress**）
-- National culture and international business cycle comovement（**R&R**）
-- National culture and central bank independence：International evidence (**Submitted**)
+- National culture and international business cycle comovement（**Revise&Resubmit**）
+- National culture and central bank independence：International evidence (**Under Review**)
 
   Working paper: https://ssrn.com/abstract=4100074
-- Temperature shocks and bank systemic risk: Evidence from China (**R&R**)
+- Temperature shocks and bank systemic risk: Evidence from China (**Revise&Resubmit**)
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
 - Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, accept.
@@ -86,8 +86,9 @@ Abstract: We investigate the relationship between global trade network centralit
 - Zhuo Xu, Zhen Li, Tong Fang, 2020. Network centrality and cross-section of stock market returns. In IEIS 2020: Proceedings of the 7th International Conference on Industrial Economics Systems and Industrial Security Engineering, 1-8. Springer.
 
 ### 课题主持与参与/Academic fundings
-- 山东省自然科学基金青年项目：不确定性对系统性金融风险传染影响的异质性：信息识别、内生检验与政策应用（ZR2020QG034），2021.1-2023.12，15万元，主持。
-- 山东大学青年学者未来计划（第六批）资助，2020-2025，20万元，主持。
+- 山东省社科规划青年项目：国内国际双循环背景下的通货膨胀联动效应与影响因素研究，2022.6-2023.12，3万元，主持
+- 山东省自然科学基金青年项目：不确定性对系统性金融风险传染影响的异质性：信息识别、内生检验与政策应用（ZR2020QG034），2021.1-2023.12，15万元，主持
+- 山东大学青年学者未来计划（第六批）资助，2020-2025，20万元，主持
 - 山东大学基本科研业务费资助项目：多维不确定性信息的内生性识别与应用研究，2019/10-2021/12，8万元，主持
 - 中央财经大学博士研究生重点选题支持计划：不确定性冲击与资产价格动态演化的复杂机理研究（2016-ZDXT01），2016/10-2018/9，5万元，主持
 - 国家哲学社会科学基金重大项目：“互联网+”推动经济转型机理与对策研究（15ZDC024），2016/03-2020/04，80万元，参与
