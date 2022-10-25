@@ -35,7 +35,7 @@
   
   Working paper：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3950940
   
-  Top ten downloads from Oct 6 to Dec 5 on SSRN for ERN: Asset Price Forecasts (Topic), ERN: Precious Metals (Topic), Econometric Modeling: Capital Markets - Forecasting eJournal and Econometric Modeling: Commodity Markets eJournal
+  **Top ten downloads** from Oct 6 to Dec 5 on SSRN for ERN: Asset Price Forecasts (Topic), ERN: Precious Metals (Topic), Econometric Modeling: Capital Markets - Forecasting eJournal and Econometric Modeling: Commodity Markets eJournal
   
   **Abstract**:We examine whether gold price ratios, which represent the relative valuations of gold, predict aggregate stock returns. We find that gold price ratios positively predict future stock returns in-sample, but fail to generate significant out-of-sample forecasting performance, except for the gold-oil price ratio (GO). GO is the most powerful predictor both in-sample and out-of-sample. The predictive ability of GO remains significant after controlling for traditional predictors and other gold price ratios. We find that GO drives stock returns through the cash flow channel, and is also associated with future bad economic conditions. The GO movement is determined by rare disaster concerns instead of economic fundamentals. Our results are robust to a series of tests.
  
@@ -49,9 +49,9 @@
 
   Working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
-- 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**Submitted**）
+- 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 - National culture and international business cycle comovement（**Revise&Resubmit**）
   
   **Abstract**:We investigate the relationship between national culture and international business cycle co-movements. We first characterize international business cycle co-movements with a dynamic latent factor model that decomposes 101 countries’ real GDP growth rates into world, regional and country-specific factors and estimate the proportion of real GDP growth rate variance explained by the world, regional and country factors for each country. We then regress these proportions on each of the five dimensions of Hofstede’s national culture with a set of control variables. We find that national culture is significantly related to business cycle co-movements, and the five dimensions have different impacts. In countries with higher power distance, masculinity and long-term orientation, the global factor explains a larger real GDP growth rate variance. Individualism and uncertainty avoidance weaken a country’s business cycle co-movements with the global business cycle. Countries with similar cultural values have similar economic structures and similar exposures to global shocks, which lead to business cycle co-movements. Our results are robust after addressing the issue of endogeneity and subsample analyses.
