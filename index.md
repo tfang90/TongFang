@@ -55,19 +55,18 @@
 - **National culture and central bank independence：International evidence** (**Under Review**)
 
   Working paper: https://ssrn.com/abstract=4100074
-- **Temperature shocks and bank systemic risk: Evidence from China** (**Revise&Resubmit**)
-  
-  **Abstract**:The relationship between climate change, a new source of financial risk, and the banking system is important for financial risk management and regulation. In this paper, we investigate the impact of temperature shocks on the systemic risk of Chinese listed banks, which is measured by a new nonlinear tail-event driven network (TENET) conditional value-at-risk (CoVaR) under g-expectation. We find that higher temperatures significantly increase the bank systemic risk, and the impact of temperature shocks is significantly larger during colder periods. The temperature shock can be regarded as a signal of bank systemic risk, which is necessary to maintain financial stability.
+
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
+- Xiaoni Song, Tong Fang*, 2022. Temperature shocks and bank systemic risk: Evidence from China. Finance Research Letters, accept.
 - Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, accept.
 - Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
-- Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, forthcoming. (SSCI)
+- Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, 46(B):102446. (SSCI)
 - Zhi Su, Peng Liu, Tong Fang*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, doi.org/10.1016/j.gfj.2021.100644. (SSCI)
 - Tong Fang, Zhi Su, and Libo Yin*, 2021. Does the green inspiration effect matter for stock returns? Evidence from the Chinese stock market. Empirical Economics, 60: 2155-2176. (SSCI)
 - Tong Fang, Zhi Su. 2020, Does uncertainty matter for US financial market volatility spillovers? Empirical evidence from a nonlinear Granger causality network. Applied Economics Letters incorporating Applied Financial Economics Letters, doi.org/10.1080/13504851.2020.1854656. (SSCI)
