@@ -104,6 +104,7 @@
 - 财政部中央文化企业国有资产监督管理领导小组办公室《国有文化企业发展报告》课题组，参与
 
 ### 学术会议/Conferences and seminars
+- 2022 International Conference on Derivatives and Capital Markets: Gold-oil price ratio and index futures return, November 11-12th, Jinan, China (Online).
 - 2020 China Accounting and Finance Conference: Global trade network and stock market returns: International evidence, January 8-9th, 2020, Beijing, China (Online).
 - 全国数量经济学博士生学术论坛：Global trade network and stock market returns: International evidence，December 25-26th, 2021, Xiamen University, China (Online).
 - Future Finance Conference 2021: Global trade network and stock market returns: International evidence, November 6th, Jiangxi University of Economics and Finance, Nanchang, China (Online).
