@@ -62,21 +62,21 @@
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
-- Xiaoni Song, Tong Fang*, 2022. Temperature shocks and bank systemic risk: Evidence from China. Finance Research Letters, accept.
-- Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, accept.
-- Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
+- Xiaoni Song, Tong Fang*, 2022. Temperature shocks and bank systemic risk: Evidence from China. Finance Research Letters, accept. -[Link](https://doi.org/10.1016/j.frl.2022.103447)-
+- Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, accept. -[Link](https://doi.org/10.1002/for.2923)-
+- Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242. -[Link](https://doi.org/10.1016/j.qref.2022.01.007)-
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
-- Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, 46(B):102446. (SSCI)
-- Zhi Su, Peng Liu, Tong Fang*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, 54:100644. [https://doi.org/10.1016/j.gfj.2021.100644](https://doi.org/10.1016/j.gfj.2021.100644). (SSCI)
-- Tong Fang, Zhi Su, and Libo Yin*, 2021. Does the green inspiration effect matter for stock returns? Evidence from the Chinese stock market. Empirical Economics, 60: 2155-2176. (SSCI)
-- Tong Fang, Zhi Su. 2020, Does uncertainty matter for US financial market volatility spillovers? Empirical evidence from a nonlinear Granger causality network. Applied Economics Letters incorporating Applied Financial Economics Letters, doi.org/10.1080/13504851.2020.1854656. (SSCI)
-- Tong Fang, Zhi Su, Libo Yin*, 2020. Economic fundamentals or investor perception? The role of uncertainty in predicting cryptocurrency volatility. International Review of Financial Analysis 71: 101566. (SSCI)
-- Tong Fang*, Tae-Hwy Lee, and Zhi Su, 2020. Predicting the long-term stock market volatility: A GARCH-MIDAS model with variable selection. Journal of Empirical Finance 58: 36-49. (SSCI)
-- Zhi Su, Tong Fang, and Libo Yin, 2019. Understanding stock market volatility: What is the role of US uncertainty? The North American Journal of Economics and Finance 48: 582-590. (SSCI,共同一作)
+- Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, 46(B):102446. -[Link](https://doi.org/10.1016/j.frl.2021.102446)-
+- Zhi Su, Peng Liu, Tong Fang*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, 54:100644. -[Link](https://doi.org/10.1016/j.gfj.2021.100644)-
+- Tong Fang, Zhi Su, and Libo Yin*, 2021. Does the green inspiration effect matter for stock returns? Evidence from the Chinese stock market. Empirical Economics, 60: 2155-2176. -[Link](https://doi.org/10.1007/s00181-020-01843-1)-
+- Tong Fang, Zhi Su. 2020, Does uncertainty matter for US financial market volatility spillovers? Empirical evidence from a nonlinear Granger causality network. Applied Economics Letters incorporating Applied Financial Economics Letters 28: 1877-1883. -[Link](https://doi.org/10.1080/13504851.2020.1854656)-
+- Tong Fang, Zhi Su, Libo Yin*, 2020. Economic fundamentals or investor perception? The role of uncertainty in predicting cryptocurrency volatility. International Review of Financial Analysis 71: 101566. -[Link](https://doi.org/10.1060/j.irfa.2020.101566)-
+- Tong Fang*, Tae-Hwy Lee, and Zhi Su, 2020. Predicting the long-term stock market volatility: A GARCH-MIDAS model with variable selection. Journal of Empirical Finance 58: 36-49. -[Link](https://doi.org/10.1060/j.jempfin.2020.05.007)-
+- Zhi Su, Tong Fang, and Libo Yin, 2019. Understanding stock market volatility: What is the role of US uncertainty? The North American Journal of Economics and Finance 48: 582-590. -[Link](https://doi.org/10.1060/j.najef.2018.07.014)-
 - 苏治、方彤*、马景义：《一类包含不同权重函数的混频GARCH族模型及其应用研究》，《数量经济技术经济研究》2018年第10期，126-143页。
-- Zhi Su, Tong Fang, and Libo Yin*, 2018. Does NVIX matter for volatility? Evidence from Asia-Pacific markets. Physica A: Statistical Mechanics and Its Applications 492: 506-516. (SCI/EI)
+- Zhi Su, Tong Fang, and Libo Yin*, 2018. Does NVIX matter for volatility? Evidence from Asia-Pacific markets. Physica A: Statistical Mechanics and Its Applications 492: 506-516. -[Link](https://doi.org/10.1060/j.physa.2017.10.025)-
 - 苏治、方彤、尹力博：《中国虚拟经济与实体经济的关联性——基于规模和周期视角的实证研究》，《中国社会科学》2017年第8期，87-109页。（被中国人民大学复印报刊资料《国民经济管理》2018年第1期全文转载）
-- Zhi Su, Tong Fang, and Libo Yin*, 2017. The role of news-based implied volatility among US financial markets. Economics Letters 157: 24-27. (SSCI)
+- Zhi Su, Tong Fang, and Libo Yin*, 2017. The role of news-based implied volatility among US financial markets. Economics Letters 157: 24-27. -[Link](https://doi.org/10.1060/j.econlet.2017.05.028)-
 - 马景义、单璐琪、方彤：《一种增强型指数追踪模型设计：GLAR与折衷路径》，《数量经济技术经济研究》2017年第5期，107-121页。
 - 苏治、方彤、秦磊：《一种基于规则化方法的最优稀疏指数追踪模型设计》，《数量经济技术经济研究》2016年第4期，145-160页。（被中国人民大学复印报刊资料《统计与精算》2016年第4期全文转载）
 - 苏治、胡迪、方彤：《人民币加入SDR的国际影响——基于情景假设的量化测算》，《中国工业经济》2015年第12期，5-19页。（被中国人民大学复印报刊资料《世界经济导刊》2016年第3期全文转载）
