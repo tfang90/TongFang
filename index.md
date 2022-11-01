@@ -47,14 +47,14 @@
 
   **Abstract**: We investigate the relationship between global trade network centrality and international stock market returns. Our empirical results show that trade network centrality negatively and significantly predicts international stock market returns, indicating that central (peripheral) economies have lower (higher) stock returns. The predictive power remains significant after controlling for traditional predictors. A centrality-based long-short trading strategy generates a significant centrality premium, which cannot be fully explained by the international risk factors of Fama and French (2012). We provide several potential and interesting explanations and find that global consumption risk exposure that controls for economy sizes, international consumption risk-sharing, conflict risk and information asymmetry are helpful in understanding the relationship between trade network centralities and stock market return differentials.
 
-  Working paper:[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781)
+  Working paper: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944781)
 
 - **National culture and international business cycle comovement**（**Revise&Resubmit**）
   
   **Abstract**:We investigate the relationship between national culture and international business cycle co-movements. We first characterize international business cycle co-movements with a dynamic latent factor model that decomposes 101 countries’ real GDP growth rates into world, regional and country-specific factors and estimate the proportion of real GDP growth rate variance explained by the world, regional and country factors for each country. We then regress these proportions on each of the five dimensions of Hofstede’s national culture with a set of control variables. We find that national culture is significantly related to business cycle co-movements, and the five dimensions have different impacts. In countries with higher power distance, masculinity and long-term orientation, the global factor explains a larger real GDP growth rate variance. Individualism and uncertainty avoidance weaken a country’s business cycle co-movements with the global business cycle. Countries with similar cultural values have similar economic structures and similar exposures to global shocks, which lead to business cycle co-movements. Our results are robust after addressing the issue of endogeneity and subsample analyses.
 - **National culture and central bank independence：International evidence** (**Under Review**)
 
-  Working paper:[SSRN](https://ssrn.com/abstract=4100074)
+  Working paper: [SSRN](https://ssrn.com/abstract=4100074)
 
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
