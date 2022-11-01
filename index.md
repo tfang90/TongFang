@@ -67,7 +67,7 @@
 - Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242.
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, 46(B):102446. (SSCI)
-- Zhi Su, Peng Liu, Tong Fang*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, doi.org/10.1016/j.gfj.2021.100644. (SSCI)
+- Zhi Su, Peng Liu, Tong Fang*, 2021. Pandemic-induced fear and stock market returns: Evidence from China. Global Finance Journal, 54:100644. [https://doi.org/10.1016/j.gfj.2021.100644](https://doi.org/10.1016/j.gfj.2021.100644). (SSCI)
 - Tong Fang, Zhi Su, and Libo Yin*, 2021. Does the green inspiration effect matter for stock returns? Evidence from the Chinese stock market. Empirical Economics, 60: 2155-2176. (SSCI)
 - Tong Fang, Zhi Su. 2020, Does uncertainty matter for US financial market volatility spillovers? Empirical evidence from a nonlinear Granger causality network. Applied Economics Letters incorporating Applied Financial Economics Letters, doi.org/10.1080/13504851.2020.1854656. (SSCI)
 - Tong Fang, Zhi Su, Libo Yin*, 2020. Economic fundamentals or investor perception? The role of uncertainty in predicting cryptocurrency volatility. International Review of Financial Analysis 71: 101566. (SSCI)
