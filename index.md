@@ -7,7 +7,7 @@
 - 电子邮箱：fangtong1990@outlook.com
 - 通讯地址：山东省济南市山大南路27号，250100
 - 办公地址：山东大学洪家楼校区2号楼318
-- 其他主页：https://www.researchgate.net/profile/Tong-Fang-3
+- 其他主页：[学校主页](https://faculty.sdu.edu.cn/fangtong/zh_CN/index.htm);[Researchgate](https://www.researchgate.net/profile/Tong-Fang-3)
 
 ### 研究方向/Research interests
 - 气候金融：气候变化与资产定价；气候变化与金融稳定等
