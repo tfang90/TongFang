@@ -90,7 +90,7 @@
 - Zhuo Xu, Zhen Li, Tong Fang, 2020. Network centrality and cross-section of stock market returns. In IEIS 2020: Proceedings of the 7th International Conference on Industrial Economics Systems and Industrial Security Engineering, 1-8. Springer.
 
 ### 课题主持与参与/Academic fundings
-- 山东省社科规划青年项目：国内国际双循环背景下的通货膨胀联动效应与影响因素研究（22DJJJ14），2022.6-2024.12，3万元，主持
+- 山东省社科规划青年项目：国内国际双循环背景下的通货膨胀联动效应与影响因素研究（22DJJJ14），2022.8-2024.12，3万元，主持
 - 山东省自然科学基金青年项目：不确定性对系统性金融风险传染影响的异质性：信息识别、内生检验与政策应用（ZR2020QG034），2021.1-2023.12，15万元，主持
 - 山东大学青年学者未来计划（第六批）资助，2020-2025，20万元，主持
 - 山东大学基本科研业务费资助项目：多维不确定性信息的内生性识别与应用研究，2019/10-2021/12，8万元，主持
