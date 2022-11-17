@@ -63,7 +63,7 @@
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
 - Xiaoni Song, Tong Fang*, 2023. Temperature shocks and bank systemic risk: Evidence from China. Finance Research Letters, 51: 103447. -[Link](https://doi.org/10.1016/j.frl.2022.103447)-
-- Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, accept. -[Link](https://doi.org/10.1002/for.2923)-
+- Tong Fang, Deyu Miao, Zhi Su, Libo Yin*, 2022. Uncertainty-driven oil volatility risk premium and international stock market volatility forecasting. Journal of Forecasting, online. -[Link](https://doi.org/10.1002/for.2923)-
 - Zhi Su, Peng Liu, Tong Fang, 2022. Uncertainty matters in US financial information spillovers: Evidece from a directed acyclic graph approach. Quarterly Review of Economics and Finance, 84: 229-242. -[Link](https://doi.org/10.1016/j.qref.2022.01.007)-
 - 方彤、苏治：《一种基于LASSO的多变量混频GARCH模型设计与优化算法研究》，《数量经济技术经济研究》2021年第12期，146-163页。
 - Libo Yin, Zhi Su, Tong Fang*, 2021. Do stock prices react to announcements of corporate executives’ first-time elections as congress deputies: New evidence from the Chinese political system. Finance Research Letters, 46(B):102446. -[Link](https://doi.org/10.1016/j.frl.2021.102446)-
