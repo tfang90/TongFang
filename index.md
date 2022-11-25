@@ -60,6 +60,8 @@
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
 - 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
+- Temperature shocks and foreign direct investment: Evidence from cities in China (**In progress**)
+- Climate shocks and the influence of monetary policy (**In progress**)
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
 - Xiaoni Song, Tong Fang*, 2023. Temperature shocks and bank systemic risk: Evidence from China. Finance Research Letters, 51: 103447. -[Link](https://doi.org/10.1016/j.frl.2022.103447)-
