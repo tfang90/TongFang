@@ -1,7 +1,7 @@
 ## 方 彤
 山东大学经济学院副研究员，硕士生导师（金融学硕/专硕），中央财经大学数量经济学博士，美国加州大学河滨分校国家公派联合培养博士研究生。入选山东大学青年学者未来支持计划（第六批）。研究领域为实证金融，包括气候金融、波动率建模和混频数据建模等。主要成果发表在《中国社会科学》《数量经济技术经济研究》等国内期刊以及Journal of Empirical Finance, Economics Letters, Global Finance Journal和International Review of Financial Analysis等SSCI检索期刊，并被中国人民大学复印报刊资料多次全文转载。主持山东省自然科学基金、山东省社科规划基金、山东大学青年学者未来计划等课题，参加国家社科基金重大项目、国家自然科学基金面上项目等。担任《管理科学学报》《数量经济技术经济研究》《经济与管理研究》和International Review of Economics and Finance，International Review of Financial Analysis，Finance Research Letters等期刊匿名审稿人。
 
-- 更新日期：2022-10
+- 更新日期：2022-12
 
 ### 联系方式/Contact information
 - 电子邮箱：fangtong1990@outlook.com
@@ -59,10 +59,11 @@
 
 - 不确定性信息溢出能否提高股票市场波动预测精度？（**Submitted**）
 - 个人投资者持股是否增加股价崩盘风险？基于中国股票市场的证据（**Submitted**）
-- 气候变化与银行风险承担：事前承担、事后承担还是两者兼具？（**Submitted**）
+- 气候变化对银行风险承担的影响研究：基于事前和事后风险承担视角（**Submitted**）
 - 金融发展与经济增长的关联性：基于文化属性的新视角（**In progress**）
-- Temperature shocks and foreign direct investment: Evidence from cities in China (**In progress**)
+- Temperature shocks and foreign direct investment: City-level evidence in China (**In progress**)
 - Climate shocks and the influence of monetary policy (**In progress**)
+- Is climate risk priced in real estates of China? (**In progress**)
 
 ### 学术论文/Publications（按时间倒序，* 通讯作者）
 - Xiaoni Song, Tong Fang*, 2023. Temperature shocks and bank systemic risk: Evidence from China. Finance Research Letters, 51: 103447. -[Link](https://doi.org/10.1016/j.frl.2022.103447)-
